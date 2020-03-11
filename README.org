@@ -1,4 +1,8 @@
 # tGHp
+* tGHp
+
 use to test github's power
+
+[[assert/test-relative-path.gif][展示相对路径图片]]
 
 ![展示相对路径的图片](assert/test-relative-path.gif)
